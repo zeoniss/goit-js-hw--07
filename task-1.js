@@ -13,7 +13,7 @@ allItems
     .forEach(entry => {
         console.log(
             'Категория: ',
-            entry.title,
+            entry.titleEl,
             '\r\nКоличество элементов:',
             entry.result
         );
