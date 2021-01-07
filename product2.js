@@ -1,2 +1,2 @@
-import products from './product.js;'
+import products from './products.js;'
 console.log(products)
